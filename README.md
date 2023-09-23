@@ -3,4 +3,4 @@ This is a Game website for anyone
 
 updating it almost everyday
 
-https://skel77.github.io/photos/1680172/pfp.jpg
+![alt text](https://skel77.github.io/photos/1680172/pfp.jpg)
